@@ -1,0 +1,17 @@
+.search-container {
+    display: flex;
+    margin-bottom: 32px;
+}
+
+.search__input {
+    padding: 8px;
+    border-radius: 8px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.filtered-books {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 32px;
+}

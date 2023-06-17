@@ -1,0 +1,31 @@
+.book__title {
+    margin: 16px 0 4px;
+    font-weight: 500;
+}
+
+.book__author {
+    margin: 0;
+    color: gray;
+}
+
+.book__category {
+    margin: 8px 0 14px;
+}
+
+.book__label {
+    font-weight: 500;
+}
+
+.selection {
+    display: flex;
+    align-items: center;
+}
+
+.selection__heading {
+    margin: 0;
+}
+
+.selection__options {
+    margin-left: 8px;
+    padding: 8px;
+}
